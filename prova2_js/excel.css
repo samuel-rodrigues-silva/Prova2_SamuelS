@@ -1,0 +1,21 @@
+body{
+    padding: 10px;
+    margin: auto;
+}
+input{
+    border: none;
+    width: 100%;
+}
+
+table{
+    margin: auto;
+    width: 100%;
+}
+
+thead {
+    text:center;
+}
+
+td{
+   border: 1px solid black; 
+}
